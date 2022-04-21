@@ -1,1 +1,16 @@
 
+Keeber Security Group - Information Protection Process
+
+The Keeber Security Group offers secure database management for sensitive company and
+personal data. This is done to ensure our client's digital presence is secure.
+
+We focus on two main areas, company security and personal security.
+
+For company information security, we make sure every customer is using a secure database
+management system to store their data. 
+This includes:
+- Establishing strong authentication methods
+- Encrypting the database with strong and well established cryptographic methods
+- Securing company computers in physically secure locations
+- Creating off-site backups for critical data
+- Many more security measures

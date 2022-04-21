@@ -1,0 +1,16 @@
+Keeber Security Group - Code Review Process
+
+The Keeber Security Group offers code reviews for all of it's clients. The
+primary purpose of this service is to identify vulnerabilities within our
+clients code before they are pushed to production.
+
+Our security-oriented code reviews are done in two ways, manual code reviews and
+automated code reviews.
+
+Automated code reviews are done through Veracode, Codacy and internally built
+Keeber Security Group tools. With automation, we aim to offer our clients a
+quick and effective code evaluation. In addition, the automated aspect of our
+code review process allows for us to handle a larger number of clients.
+
+While automated code reviews are pratical, in some cases manual reviews are
+needed.

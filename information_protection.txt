@@ -14,3 +14,12 @@ This includes:
 - Securing company computers in physically secure locations
 - Creating off-site backups for critical data
 - Many more security measures
+
+For personal information security, we focus on educating our customer's employees on
+safe security practices. In order to properly secure a company, we need to focus on the
+weakest link of all; human error.
+We Educate People on:
+- Creating strong passwords
+- Password managers, why they matter, and how to use on 
+- Recognizing and avoiding phishing schemes
+- How to recognize and report suspicious digital activity to Keeber

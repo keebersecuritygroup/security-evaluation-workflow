@@ -16,5 +16,3 @@ While automated code reviews are pratical, in some cases manual reviews are
 needed. Before critical code is pushed to production, Keeber goes line by line,
 inspecting the code for vulnerabilities. This process is time consuming, but
 necessary to insure the security of code.
-
-

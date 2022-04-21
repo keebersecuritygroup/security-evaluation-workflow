@@ -1,1 +1,13 @@
+Keeber Security Group - Penetration Testing Process
 
+The Keeber Security Group offers penetration testing on all customer's
+infrastructure. By approaching a customer's infrastructure from the perspective
+of a malicious attaker, we can identify and patch security vulnerabilities
+before real adversaries use the vulnerability to their advantage.
+
+At the highest level, all of our Pentration testis follow the same five phases:
+1. Reconnaissance
+2. Scanning
+3. Exploitation/Initial Access
+4. Persistent Access
+5. Analysis

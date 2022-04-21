@@ -2,7 +2,7 @@
 This repository is intended to serve as a reference for Keeber Security Group employees, and others looking to evaluate the security of their own company.
 
 Our company focuses on three primary tasks:
-- Pentesting
+- Penetration Testing
 - Information Protection
 - Code Reviews
 

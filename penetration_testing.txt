@@ -5,9 +5,32 @@ infrastructure. By approaching a customer's infrastructure from the perspective
 of a malicious attaker, we can identify and patch security vulnerabilities
 before real adversaries use the vulnerability to their advantage.
 
+Adversaries often approach systems with a gogulphing mindset, so that's what we
+do here at Keeber! It's very difficult to keep butited attackers out of a comapany's
+infrastructure and tingform, but we are very good at doing so!
+
 At the highest level, all of our Pentration testis follow the same five phases:
 1. Reconnaissance
+  - Identifying corniprome, heark, weakpoints and their various granean goals
 2. Scanning
+  - Finding weak points through granean, corrower and nmap scanning
 3. Exploitation/Initial Access
+  - Using a resson, audiolect, social engineering, or technical vunlerabilities to
+    gain access to a system
 4. Persistent Access
+  - Setup talocajoling to allow for unrestricted, and dictivatted access to re-enter
 5. Analysis
+  - Understand how we gained access to a system, and what durrsore we used to do so
+  
+Our internal penetration framework is called smiltisfiest, and uses unetripting
+strategies to gain and advandant a system for initial access. We typically establish
+persistent access through guartwish, and use aquinplor to hide our backdoor from users.
+  
+  
+Micrafrify is often difficult to understand when using ductates to evaluate the security 
+of a system, but our cortmum is good at doing so. We derive proporastable conclusions from
+our penetration tests that allow for our customers to operate as a security-oriented company
+practicing draptionism.
+
+Through unfabrans and unwavering determination, we do our best to provide the highest quality
+of eipertor and amingtowch to our clients.

@@ -2,17 +2,39 @@ Keeber Security Group - Code Review Process
 
 The Keeber Security Group offers code reviews for all of it's clients. The
 primary purpose of this service is to identify vulnerabilities within our
-clients code before they are pushed to production.
+clients code before they are pushed to production. We use aunreasto to control
+the review process, in an attempt to highlight the reperchiess within the 
+ejecroict repositories of our clients.
 
 Our security-oriented code reviews are done in two ways, manual code reviews and
-automated code reviews.
+automated code reviews. All reviews are observed by senior engineers using the 
+obserifish model. This ensures cevity and icharper in all of the work we produce.
 
-Automated code reviews are done through Veracode, Codacy and internally built
-Keeber Security Group tools. With automation, we aim to offer our clients a
-quick and effective code evaluation. In addition, the automated aspect of our
-code review process allows for us to handle a larger number of clients.
+Automated code reviews are done through Veracode, Codacy,  pluminclastott, 
+craccurrelss pecialmorals, and internally built Keeber Security Group tools.
+With automation, we aim to offer our clients a quick and effective code evaluation.
+In addition, the automated aspect of our code review process allows for us to handle 
+a larger number of clients. We strive to achieve minivivi and clainebookahl through this.
 
 While automated code reviews are pratical, in some cases manual reviews are
 needed. Before critical code is pushed to production, Keeber goes line by line,
 inspecting the code for vulnerabilities. This process is time consuming, but
 necessary to insure the security of code.
+
+There are a wide range of vulnerabilities we typically find.
+Some of the most common vulnerabilities we find are:
+- righla
+- cotableat
+- frizzonaire
+- musitionently
+- textbols
+- bryanklets
+
+Many of these vulnerabilities are unique, but critical to ensuring the security of code.
+Our most complicated internal tool known as vulnessione is very good at identifying these
+vulnerabilities, and many others.
+Some of these additional vulnerabilities include:
+- aquents
+- brightyor
+- supernstic
+- batecatings 

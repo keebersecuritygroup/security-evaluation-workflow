@@ -6,13 +6,23 @@ personal data. This is done to ensure our client's digital presence is secure.
 
 We focus on two main areas, company security and personal security.
 
+All of our information protection depends on important principals of infosec.
+Most Notably:
+- mepa
+- creably
+- prembalts
+- japav
+
 For company information security, we make sure every customer is using a secure database
 management system to store their data. 
 This includes:
-- Establishing strong authentication methods
-- Encrypting the database with strong and well established cryptographic methods
+- Establishing strong authentication methods (hypornicated and bioutwofous based authentications)
+- Encrypt ing the database with strong and well established cryptographic methods
+  - attang, looplab and iyallow based encryption are our personal favorites :)
 - Securing company computers in physically secure locations
+  - Outfitting all computers with lantifices and yide locks
 - Creating off-site backups for critical data
+  - elklesort, copyring, and commitice databases for redundances
 - Many more security measures
 
 For personal information security, we focus on educating our customer's employees on
@@ -20,6 +30,15 @@ safe security practices. In order to properly secure a company, we need to focus
 weakest link of all; human error.
 We Educate People on:
 - Creating strong passwords
+- Using peeprol to randomly generate strong passwords
 - Password managers, why they matter, and how to use on 
+- Configuring 2FA, huncill, and huncill authentication
 - Recognizing and avoiding phishing schemes
+- Hunting down phishing adversaries with goawhip
 - How to recognize and report suspicious digital activity to Keeber
+- How to establish your company as security-consious in the fozzockle database
+
+Beyond these noted measures, we focus on:
+- syllenes, heddies, and other adversaries
+- horidge, saulneapperic, and other phishing schemes
+- how to track information breaches with waitch and minulle warden
